@@ -1,0 +1,222 @@
+[
+  {
+    "id": 0,
+    "question": "Where would you borrow coffee if you do not have any?",
+    "choice": "meeting,convenience store,supermarket,fast food restaurant,friend's house",
+    "label": "friend's house",
+    "original_explanation": "Out of the given choices, the most convenient and readily available option to borrow coffee would be a convenience store. While other options like supermarkets, fast food restaurants, and friends' houses might offer coffee, they are less convenient due to factors like limited hours, distance, or social awkwardness of asking for a small favor.",
+    "need_improve": true,
+    "feedback": "The original explanation misunderstands the nature of borrowing versus purchasing and the social dynamics involved in asking for a small favor. Borrowing coffee from a friend's house is the most appropriate and convenient option.",
+    "critic_explanation": "Friends are the most likely to lend you coffee, as borrowing usually implies a personal relationship where lending and borrowing are common. Therefore, borrowing coffee from a friend's house is the most appropriate choice.",
+    "refined_explanation": "Borrowing typically implies a personal relationship where lending and borrowing are common, unlike a commercial transaction at a store. Therefore, taking the feedback and suggestion into account, borrowing coffee from a friend's house emerges as the most appropriate and convenient option."
+  },
+  {
+    "id": 1,
+    "question": "What does every person talk out of?",
+    "choice":"name,hide,mother and father,mouth,heart",
+    "label": "mouth",
+    "original_explanation": "Every person talks out of their mouth. The mouth is the part of the body responsible for articulating speech and vocalizing sounds. It is the primary means by which humans communicate through spoken language.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 2,
+    "question":"Bobby noticed that the silverware was plastic.  This was a turn off for him because it was so cheap.  Where might he have been?",
+    "choice": "restaurant, silver, cupboard, table, kitchen",
+    "label": "restaurant",
+    "original_explanation": "The sentence describes Bobby's experience at a restaurant, where he noticed that the silverware was plastic. This indicates that he was likely in a dining establishment, rather than in his own home or kitchen.",
+    "need_improve": true,
+    "feedback": "The explanation could emphasize more strongly why a restaurant is the most likely setting among the given options.",
+    "critic_explanation": "Bobby noticed that the silverware was plastic, which he found cheap and unappealing. This suggests he was in a place where he expected higher-quality silverware, typically metal, to be used.",
+    "refined_explanation": "Bobby noticed that the silverware was plastic, which he found cheap and unappealing. This suggests he was likely in a setting where silverware is typically expected to be made of a higher-quality material, such as metal."
+  },
+  {
+    "id": 3,
+    "question": "What is used just before leaving a barber shop?",
+    "choice": "water,comb,military base,seville,small town",
+    "label": "comb",
+    "original_explanation": "Combs are typically used to style hair after a haircut, which is done just before leaving a barber shop.",
+    "need_improve": true,
+    "feedback": "The explanation could be more detailed by explaining the typical process at a barber shop and why the comb is used at that specific moment.",
+    "critic_explanation": "After a haircut, barbers usually style the customer's hair using a comb to ensure it looks neat and presentable. This step is done just before the customer leaves the barber shop, making the comb the item most commonly used at that moment. The comb helps finalize the haircut by arranging the hair in the desired style, ensuring the customer looks well-groomed as they exit.",
+    "refined_explanation": "The comb is used just before leaving a barber shop because it is an essential tool for finalizing the haircut, ensuring a neat and presentable appearance."
+  },
+  {
+    "id": 4,
+    "question": "What is a good result of jogging?",
+    "choice": "insect repellent,heart attacks,improved health,shin splints,being tired",
+    "label": "heart attacks",
+    "original_explanation": "Improved health is a well-established benefit of jogging. Regular jogging can lead to numerous health improvements.",
+    "need_improve": true,
+    "feedback": "The explanation could be improved by specifying some of the health benefits in more detail, providing a clearer picture of why improved health is a result of jogging.",
+    "critic_explanation": "Jogging is a form of cardiovascular exercise that offers numerous health benefits. Regular jogging can improve cardiovascular fitness, strengthen muscles, enhance lung capacity, and help in maintaining a healthy weight. Additionally, it can reduce the risk of chronic diseases such as heart disease, type 2 diabetes, and certain cancers. Jogging also has mental health benefits, including reducing stress and improving mood through the release of endorphins. Therefore, \"improved health\" is a comprehensive and accurate result of jogging.",
+    "refined_explanation": "Improved health is a well-established benefit of jogging. Regular jogging can lead to better cardiovascular fitness, stronger muscles, enhanced lung capacity, and healthy weight maintenance. It also reduces the risk of chronic diseases such as heart disease, type 2 diabetes, and certain cancers. Additionally, jogging promotes mental health by reducing stress and improving mood through the release of endorphins. Therefore, \"improved health\" is a comprehensive and accurate result of jogging."
+  },
+  {
+    "id": 5,
+    "question": "What might an unsuccessful writing program cause?",
+    "choice": "unexpected results,bugs,satisfaction,frustration,aggrevation",
+    "label": "frustration",
+    "original_explanation": "The most likely consequence of an unsuccessful writing program is frustration. This is because an unsuccessful program would likely not meet the user's expectations, which could lead to feelings of disappointment, anger, and annoyance.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 6,
+    "question": "What happens after eating dinner?",
+    "choice": "heart burn,become tired,become full,flatulence,indigestion",
+    "label": "become full",
+    "original_explanation": "The most likely outcome after eating dinner is becoming full. This is because the body has just consumed a large amount of food and needs time to digest it.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "The investigator considered the gun evidence, where did he send it?",
+    "choice": "drawer,back to its owner,police station,crime scene,holster",
+    "label": "police station",
+    "original_explanation": "The investigator considered the gun evidence and decided to send it to the police station for further analysis and investigation. This is the most appropriate choice given the context of the question.",
+    "need_improve": true,
+    "feedback": "The explanation could be more concise and directly address why the police station is the most suitable choice.",
+    "critic_explanation": "The investigator considered the gun evidence and sent it to the police station for further analysis and investigation. This is the most appropriate choice, as the police station is equipped to handle and analyze evidence in criminal investigations.",
+    "refined_explanation": "After considering the gun evidence, the investigator decided to send it to the police station for further analysis and investigation. This decision is appropriate because police stations have specialized facilities and trained personnel who can conduct forensic analysis and handle evidence securely as part of criminal investigations."
+  },
+  {
+    "id": 8,
+    "question": "Most adult Americans split their time between home and what?",
+    "choice": "tent,work,apartment,the office,foreign",
+    "label": "work",
+    "original_explanation": "The answer is work, as most adult Americans spend a significant amount of time at their workplace.",
+    "need_improve": true,
+    "feedback": "The explanation could be strengthened by emphasizing the dual nature of this time split between home and work.",
+    "critic_explanation": "Most adult Americans split their time between home and work. This reflects the balance between personal life and professional responsibilities, where a substantial portion of their day is dedicated to their workplace activities.",
+    "refined_explanation": "The answer is work, as most adult Americans spend a significant amount of time at their workplace. This time split between home and work reflects the dual nature of adult life, where individuals balance their personal and professional responsibilities. "
+  },
+  {
+    "id": 9,
+    "question": "Where would a woman store a train ticket on her person?",
+    "choice": "conductor's hand,purse,train depot,ticket booth,ticket office",
+    "label": "purse",
+    "original_explanation": "A woman would typically store a train ticket on her person in her purse or handbag, which is a convenient and secure way to carry small items like tickets.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "Where are you likely to receive mouthwash in a little paper cup?",
+    "choice": "bottle,drug store,dentist's office,doctor office,bathroom",
+    "label": "dentist's office",
+    "original_explanation": "The sentence suggests that mouthwash is being dispensed from a small paper cup. This is a common practice in drug stores, where mouthwash is typically sold in individual cups or small containers.",
+    "need_improve": true,
+    "feedback": "The provided explanation is incorrect because it suggests drug stores as the location where mouthwash is dispensed in a little paper cup, which is not typically the case.",
+    "critic_explanation": "You are likely to receive mouthwash in a little paper cup at a dentist's office. This is because dentists often provide mouthwash in disposable cups for patients to use before or after dental procedures. It helps maintain oral hygiene and cleanliness during visits to the dentist.",
+    "refined_explanation": "The answer is dentist's office. Mouthwash is often provided in small paper cups at dentist's offices for patients to use before or after dental procedures. This helps maintain oral hygiene and cleanliness during visits to the dentist."
+  },
+  {
+    "id": 11,
+    "question": "A marmot is an animal that is normally found in what type of environment?",
+    "choice": "american forest,african desert,northern hemisphere,switzerland,northern climates",
+    "label": "american forest",
+    "original_explanation": "Marmots are a type of ground squirrel that are found in cold mountain environments, typically in the northern hemisphere. They are adapted to living in rocky, alpine regions with sparse vegetation and low temperatures. ",
+    "need_improve": true,
+    "feedback": "The explanation incorrectly states that marmots are found in American forests, which is not accurate. It's important to provide accurate information about the habitat of marmots to avoid confusion.",
+    "critic_explanation": "The correct habitat for marmots is the \"american forest.\" These animals are typically found in mountainous regions of North America, including the western United States and Canada. They prefer habitats with abundant vegetation such as alpine meadows and forested areas, where they burrow and hibernate during winter.",
+    "refined_explanation": "The answer is american forest. Marmots are found in mountainous regions of North America, including the western United States and Canada. They inhabit areas with abundant vegetation, such as alpine meadows and forested areas, where they burrow and hibernate during winter."
+  },
+  {
+    "id": 12,
+    "question": "When the baby was born, what did the new grandmother claim it did for her?",
+    "choice": "boy or girl,park,bring joy,arrive on time,nurse",
+    "label": "bring joy",
+    "original_explanation": "bring joy\" is the most positive and appropriate choice as it highlights the main reason why the new grandmother would claim that the baby brought joy to her.",
+    "need_improve": true,
+    "feedback": "The explanation can be improved by emphasising the meaning of a newborn to a grandmother.",
+    "critic_explanation": "The correct answer is \"bring joy.\" When a baby is born, it often brings immense happiness and a sense of fulfillment to family members, especially grandparents. The arrival of a new grandchild is a momentous occasion that typically evokes feelings of joy, love, and excitement. Therefore, it is most likely that the new grandmother would claim that the baby brought joy to her, highlighting the positive emotional impact of the newborn's arrival.",
+    "refined_explanation": "The correct answer is \"bring joy.\" The arrival of a new baby brings happiness and fulfillment to family members, especially grandparents. The baby's arrival brings a new source of joy and happiness to the grandmother's life, and it's natural for her to claim that the baby brought joy to her."
+  },
+  {
+    "id": 13,
+    "question": "To learn must have the right book, to work efficiently what must one have?",
+    "choice": "improve yourself,become knowledgeable,have tools,persistence,have more knowledge",
+    "label": "have tools",
+    "original_explanation": "The correct answer is \"have tools.\" To work efficiently, one must have the right tools for the job. Having the right tools can help streamline processes, reduce errors, and increase productivity. In the context of work, tools can refer to physical equipment, software, or other resources that are necessary for completing tasks efficiently.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "What is remembering ever answer on a test likely to show?",
+    "choice": "nostalgia,depression,problems,instruction,knowledge",
+    "label": "knowledge",
+    "original_explanation": "The correct answer is \"knowledge.\" Remembering answers on a test is likely to show knowledge of the subject matter. When a person remembers information from a test, it indicates that they have learned and retained the information, and are able to recall it when needed.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "There are many dance clubs and higher rates of obesity where?",
+    "choice": "united states,ohio,toun,michigan,fast food restaurants",
+    "label": "united states",
+    "original_explanation": "The text states that there are many dance clubs and higher rates of obesity in the United States. Therefore, the answer is the United States.",
+    "need_improve": true,
+    "feedback": "The explanation could benefit from a bit more detail to reinforce the connection between the two points.",
+    "critic_explanation": "The United States is a country known for its vibrant nightlife, with many dance clubs and bars, especially in cities like New York, Los Angeles, and Miami. Additionally, the United States has a high prevalence of obesity, with over 36% of adults having obesity, according to the Centers for Disease Control and Prevention (CDC). This is higher than many other developed countries, and is a major public health concern.",
+    "refined_explanation": "The correct answer is \"United States.\" The United States is known for its vibrant nightlife with many dance clubs, especially in major cities. It also has a high prevalence of obesity, with over 36% of adults affected, highlighting a significant public health concern."
+  },
+  {
+    "id": 16,
+    "question": "What colors are in the RBG model?",
+    "choice": "red green,sky,rainbow,orange red,red yellow",
+    "label": "red green",
+    "original_explanation": "The correct answer is \"red green.\" The reason is that the RGB (Red, Green, Blue) color model is a additive color model that combines different intensities of red, green, and blue light to produce a wide range of colors.",
+    "need_improve": false,
+    "feedback": "",
+    "critic_explanation": "",
+    "refined_explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "When people get together for a potluck what do they do?",
+    "choice": "share food,cook food,believe in god,demand justice,talk to each other",
+    "label": "share food",
+    "original_explanation": "During a potluck gathering, people typically cook food together while engaging in conversation with one another.",
+    "need_improve": true,
+    "feedback": "It states that people \"typically cook food together.\" This is not accurate for a potluck because attendees usually bring pre-prepared dishes rather than cooking together at the event.",
+    "critic_explanation": "During a potluck gathering, people share food that they have individually prepared at home or bought from stores. The primary activities include enjoying the variety of dishes brought by participants and engaging in conversations with one another.",
+    "refined_explanation": "The correct answer is \"share food.\" At a potluck, people primarily share food they've brought, fostering a sense of community and enjoyment through diverse culinary contributions."
+  },
+  {
+    "id": 18,
+    "question": "Why would a person put flowers in a room with dirty gym socks?",
+    "choice": "continue to grow,plant themselves,many colors,smell good,make pretty",
+    "label": "smell good",
+    "original_explanation": "The most likely reason for putting flowers in a room with dirty gym socks is to make the room prettier with their vibrant colors and pleasant fragrance, even amidst the unpleasant odor of the socks.",
+    "need_improve": true,
+    "feedback": "The explanation provided suggests that flowers are placed in the room to make it prettier despite the presence of dirty gym socks. While this is a plausible reason, it doesn't directly address the interaction between the flowers and the socks. It's important to consider that the primary function of the flowers in this scenario is likely related to their fragrance rather than just visual aesthetics.",
+    "critic_explanation": "Flowers are likely placed in a room with dirty gym socks primarily to improve the room's scent by counteracting the unpleasant odor with their own natural fragrance, thereby making the environment more pleasant despite the socks' smell.",
+    "refined_explanation": "Choice: \"smell good\". The most likely reason for putting flowers in a room with dirty gym socks is to mask the unpleasant odor of the socks with their pleasant fragrance."
+  },
+  {
+    "id": 19,
+    "question": "He could never remember the last line of the what he was set to perform?",
+    "choice": "transportation system,stanza,park,add information on spreadsheet,electromagnetic spectrum",
+    "label": "stanza",
+    "original_explanation": "The sentence describes a situation where someone has forgotten the last line of a performance. Stanza is the most appropriate choice because it is a word that is commonly used in the context of performance or poetry.",
+    "need_improve": true,
+    "feedback": "The explanation could be strengthened by directly connecting the concept of forgetting the last line to the structure of a stanza and how this relates to performance.",
+    "critic_explanation": "could be strengthened by directly connecting the concept of forgetting the last line to the structure of a stanza and how this relates to performance.",
+    "refined_explanation": "The correct answer is \"stanza\" because it refers to a group of lines in a poem or song, which are typically performed together. The sentence describes a situation where someone has forgotten the last line of a performance, which suggests that they have forgotten the final line of a stanza. The structure of a stanza can make it difficult to remember the last line, especially if the performance is lengthy or complex."
+  }
+]

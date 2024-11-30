@@ -1,0 +1,10 @@
+[
+  {
+    "name": "eSNLI_generator_Qwen2-7B_critic_Qwen2-7B_feedback_False_suggestion_True_ablation_study.json",
+    "score": -4.6666666666666665
+  },
+  {
+    "name": "eSNLI_generator_Qwen2-7B_critic_Qwen2-7B_feedback_True_suggestion_False_ablation_study.json",
+    "score": -4.862068965517241
+  }
+]

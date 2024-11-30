@@ -1,0 +1,158 @@
+[
+  {
+    "file_name": "ECQA_generator_Meta-Llama-3-70B-GPTQ_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.6331744432449341,
+    "feedback_cos_sim": 0.49178559664975513,
+    "suggestion_cos_sim": 0.6053702361204407
+  },
+  {
+    "file_name": "ECQA_generator_Meta-Llama-3-70B-GPTQ_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.6884431308301698,
+    "feedback_cos_sim": 0.5786044455266425,
+    "suggestion_cos_sim": 0.6462697390733021
+  },
+  {
+    "file_name": "ECQA_generator_Meta-Llama-3-70B-GPTQ_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.6749984961192029,
+    "feedback_cos_sim": 0.5429009745518366,
+    "suggestion_cos_sim": 0.7370170626141455
+  },
+  {
+    "file_name": "ECQA_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.7604819148778915,
+    "feedback_cos_sim": 0.49438180048018693,
+    "suggestion_cos_sim": 0.805907921327485
+  },
+  {
+    "file_name": "ECQA_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.5094188121198625,
+    "feedback_cos_sim": 0.40435831769430947,
+    "suggestion_cos_sim": 0.6018516486920007
+  },
+  {
+    "file_name": "ECQA_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.4555896042416302,
+    "feedback_cos_sim": 0.426027056402885,
+    "suggestion_cos_sim": 0.5045452876129075
+  },
+  {
+    "file_name": "ECQA_generator_Qwen2-7B_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.7159399341705234,
+    "feedback_cos_sim": 0.4584823345418933,
+    "suggestion_cos_sim": 0.7159399341705234
+  },
+  {
+    "file_name": "ECQA_generator_Qwen2-7B_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.5396585658650029,
+    "feedback_cos_sim": 0.3812952779464909,
+    "suggestion_cos_sim": 0.49425982415797354
+  },
+  {
+    "file_name": "ECQA_generator_Qwen2-7B_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.7628023755138552,
+    "feedback_cos_sim": 0.5891150204857828,
+    "suggestion_cos_sim": 0.8707922772047272
+  },
+  {
+    "file_name": "eSNLI_generator_Meta-Llama-3-70B-GPTQ_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.4563825822070889,
+    "feedback_cos_sim": 0.5117387237108272,
+    "suggestion_cos_sim": 0.6365321356317272
+  },
+  {
+    "file_name": "eSNLI_generator_Meta-Llama-3-70B-GPTQ_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.509720184598808,
+    "feedback_cos_sim": 0.44091891800915756,
+    "suggestion_cos_sim": 0.7037017249536736
+  },
+  {
+    "file_name": "eSNLI_generator_Meta-Llama-3-70B-GPTQ_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.3067490328103304,
+    "feedback_cos_sim": 0.5590619477240936,
+    "suggestion_cos_sim": 0.7287731248399486
+  },
+  {
+    "file_name": "eSNLI_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.5112031059089437,
+    "feedback_cos_sim": 0.44433106051118515,
+    "suggestion_cos_sim": 0.7261440461473678
+  },
+  {
+    "file_name": "eSNLI_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.5572655158036429,
+    "feedback_cos_sim": 0.5433730977870848,
+    "suggestion_cos_sim": 0.5572655158036429
+  },
+  {
+    "file_name": "eSNLI_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.3723229366910072,
+    "feedback_cos_sim": 0.601250435753041,
+    "suggestion_cos_sim": 0.842770421395011
+  },
+  {
+    "file_name": "eSNLI_generator_Qwen2-7B_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.6288469928348887,
+    "feedback_cos_sim": 0.468047934552205,
+    "suggestion_cos_sim": 0.7324084803975862
+  },
+  {
+    "file_name": "eSNLI_generator_Qwen2-7B_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.4547082942491397,
+    "feedback_cos_sim": 0.58731413248647,
+    "suggestion_cos_sim": 0.8459579626247287
+  },
+  {
+    "file_name": "healthFC_generator_Meta-Llama-3-70B-GPTQ_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.7287853663236055,
+    "feedback_cos_sim": 0.7617603393581102,
+    "suggestion_cos_sim": 0.9184876447109066
+  },
+  {
+    "file_name": "healthFC_generator_Meta-Llama-3-70B-GPTQ_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.3985141075444313,
+    "feedback_cos_sim": 0.4839225740663425,
+    "suggestion_cos_sim": 0.498176924629088
+  },
+  {
+    "file_name": "healthFC_generator_Meta-Llama-3-70B-GPTQ_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.3942126490504426,
+    "feedback_cos_sim": 0.46377580791218753,
+    "suggestion_cos_sim": 0.4450499594478649
+  },
+  {
+    "file_name": "healthFC_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.5341547317749687,
+    "feedback_cos_sim": 0.6960269700097186,
+    "suggestion_cos_sim": 0.9073557527416519
+  },
+  {
+    "file_name": "healthFC_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.5233955611567944,
+    "feedback_cos_sim": 0.7523900671250053,
+    "suggestion_cos_sim": 0.9310234810997333
+  },
+  {
+    "file_name": "healthFC_generator_Mixtral-8x7B-v0.1-GPTQ_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.558860185750361,
+    "feedback_cos_sim": 0.6509752368873784,
+    "suggestion_cos_sim": 0.7773414909946067
+  },
+  {
+    "file_name": "healthFC_generator_Qwen2-7B_critic_Meta-Llama-3-70B-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.4892527299733566,
+    "feedback_cos_sim": 0.4907909851813955,
+    "suggestion_cos_sim": 0.5127219241531565
+  },
+  {
+    "file_name": "healthFC_generator_Qwen2-7B_critic_Mixtral-8x7B-v0.1-GPTQ_refined_explanation.json",
+    "explanation_cos_sim": 0.46551172605270047,
+    "feedback_cos_sim": 0.5077659115422101,
+    "suggestion_cos_sim": 0.5028683607944189
+  },
+  {
+    "file_name": "healthFC_generator_Qwen2-7B_critic_Qwen2-7B_refined_explanation.json",
+    "explanation_cos_sim": 0.9030126002005169,
+    "feedback_cos_sim": 0.7716130361812455,
+    "suggestion_cos_sim": 0.9627994342254741
+  }
+]
